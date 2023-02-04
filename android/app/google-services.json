@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573543723490",
+    "project_id": "grocery-b431f",
+    "storage_bucket": "grocery-b431f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573543723490:android:dc1f0064e93e953fe289bb",
+        "android_client_info": {
+          "package_name": "com.example.necter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573543723490-6l3ckhkaugso6ifqm6kpd6uhq392ht9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCdBTSyijaLG-K81DFgBXgnetkyZoC2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573543723490-6l3ckhkaugso6ifqm6kpd6uhq392ht9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
